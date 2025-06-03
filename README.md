@@ -133,13 +133,9 @@ Contributing
 Contributions are welcome! If you'd like to add features, fix bugs, or improve the game:
 
 Fork the repository
-
 Create your feature branch
-
 Commit your changes
-
 Push to the branch
-
 Open a pull request
 
 License
@@ -147,8 +143,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Acknowledgments
 Inspired by classic text adventures like Zork
-
 Cyberpunk themes inspired by Blade Runner and Neuromancer
-
 ASCII art generated using text-based tools
+Dive into the neon-drenched streets of Neo Arcadia and start your hacking journey today!
 
