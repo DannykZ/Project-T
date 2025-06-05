@@ -3,7 +3,9 @@ import sys
 import time
 import random
 from enum import Enum
-
+""" 
+A new Project!
+"""
 class GameState(Enum):
     EXPLORE = 1
     COMBAT = 2
