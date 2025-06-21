@@ -111,24 +111,6 @@ Eventually breaching the mainframe in the Server Farm
 Expose OmniCorp's secrets and bring justice to Neo Arcadia!
 
 
-   ___                  _        _____ 
-  / _ \ _ __  ___ _ __ | |_ ___ |_   _|
- / /_)/| '_ \/ _ \ '_ \| __/ _ \  | |  
-/ ___/ | |_) | __/ | | | || (_) | | |  
-\/     | .__/\___|_| |_|\__\___/  |_|  
-
-       |_|                             
-┌──────────────────────────────┐
-│ HEALTH     : ██████████      │
-│ ENERGY     : ████████████    │
-│ LEVEL      : 3               │
-│ CREDITS    : 125             │
-│ WEAPON     : Plasma Pistol   │
-│ ARMOR      : Light Jacket    │
-│ LOCATION   : Undercity       │
-└──────────────────────────────┘
-
-
 Contributing
 Contributions are welcome! If you'd like to add features, fix bugs, or improve the game:
 
